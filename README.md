@@ -183,7 +183,6 @@ OTHER ACHIEVEMENTS: HACKATHONS, EDUCATION, ETC.
 |                       | ![Contact Information](https://git.io/JfOkY) |
 |:---------------------:|:---------------------------------------------|
 |        :email:        | patrick.clery@gmail.com                      |
-|        :phone:        | +1.778.990.9803                              |
 | :busts_in_silhouette: | https://linkedin.com/in/patrickclery         |
 |       :octopus:       | https://github.com/patrickclery              |
 |        :bird:         | https://twitter.com/patrickclery             |
